@@ -159,15 +159,7 @@ Open and run `inference.ipynb`:
 - Tune batch size, learning rate, and scheduler settings
 - Augment dataset with rotations, crops, color jitter, etc.
 
----
 
-## 💾 Save & Submit
-
-After running inference notebooks, upload `submission.csv` to:
-
-🔗 [Annam.ai Competition Portal](https://annam.ai/soils2025)
-
----
 
 ## 🙏 Acknowledgements
 
