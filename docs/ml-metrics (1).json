@@ -1,0 +1,16 @@
+{
+    "challenge_1": {
+        "task": "Soil Type Classification (Multi-class)",
+        "f1_score": 0.9655,
+        "model": "EfficientNet-B0",
+        "epochs": 5,
+        "notes": "4-class classification (Alluvial, Black, Red, Clay)"
+    },
+    "challenge_2": {
+        "task": "Soil vs Not-Soil Classification (Binary)",
+        "f1_score": 1.0,
+        "model": "ResNet-50",
+        "epochs": 15,
+        "notes": "Binary classification using CIFAR-10 negatives"
+    }
+}
